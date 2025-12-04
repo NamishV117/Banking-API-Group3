@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'bankinggroup3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C740DA34FC94124A72FB1C78C839963 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7251A7447A0C4305BD064A4092B82EC5 }}
